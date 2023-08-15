@@ -1,4 +1,5 @@
 /* header section */
 .navbar-brand img{
     max-width: 30%;
+    display: inline-block;
 }
