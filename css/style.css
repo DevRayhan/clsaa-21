@@ -3,3 +3,13 @@
     max-width: 30%;
     display: inline-block;
 }
+.carousel{
+    position: relative;
+}
+.carousel-caption{
+    position: absolute;
+    top: 50%;
+}
+.p-div{
+    text-align: center;
+}
